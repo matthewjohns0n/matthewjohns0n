@@ -1,3 +1,8 @@
+### Hi there 👋
+
+I'm Matt, one of the core team members of the open-source project [@ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine).
+
+
 <!--
 ### Hi there 👋
 
