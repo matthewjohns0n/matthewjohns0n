@@ -4,7 +4,7 @@ I'm Matt, a Lead Developer at [Packet Tide](https://github.com/packettide) speci
 
 I work on:
 - **[@ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine)** – Core team member
-- **ExpressionEngine Core AI offerings** – Project lead on the ExpressionEngine MCP server, building custom AI integrations and tools with extensive work across AI APIs
+- **[ExpressionEngine Core AI offerings](https://github.com/packettide/ee-mcp)** – Project lead on the ExpressionEngine MCP server, building custom AI integrations and tools with extensive work across AI APIs
 - **[EEHarbor](https://eeharbor.com/) add-ons** – Extending the ExpressionEngine ecosystem
 - **[CartThrob](https://www.cartthrob.com/)** – Project lead for e-commerce solutions
 - **[Expresso Store](https://exp-resso.com/)** – Project lead for e-commerce platform
