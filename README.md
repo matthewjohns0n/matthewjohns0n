@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matt, Senior Developer at [Packet Tide](https://github.com/packettide), a full-stack engineer specializing in AI-powered developer tools, backend systems, and PHP architecture.
+I'm Matt, Staff Software Engineer at [Packet Tide](https://github.com/packettide), a full-stack engineer specializing in AI-powered developer tools, backend systems, and PHP architecture.
 
 🔭 Currently building: AI-native developer tooling and MCP servers for the ExpressionEngine ecosystem
 
@@ -14,4 +14,4 @@ I work on:
 
 Focused on building the next layer of AI-native developer tooling.
 
-Outside of code, I spend my time rock climbing, hiking, making music, and traveling as a digital nomad.
+Outside of code, I spend my time rock climbing, hiking, and making music.
